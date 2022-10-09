@@ -2,7 +2,7 @@
 - :computer: I’m interested in python , web devolopment
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me ...
+- 📫 How to reach me <a href="mailto:irfanrasheed273@gmail.com">Mail Me</a>
 
 <!---
 irfanrasheedkc/irfanrasheedkc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
