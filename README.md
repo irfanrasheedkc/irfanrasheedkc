@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irfanrasheedkc
-- 👀 I’m interested in python , web devolopment
+- :computer: I’m interested in python , web devolopment
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me ...
