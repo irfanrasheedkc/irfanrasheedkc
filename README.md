@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @irfanrasheedkc
-- :computer: I’m interested in python , web devolopment
+- :computer: I’m interested in Python , Web devolopment and Machine Learning
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on python , web and Machine learning projects
 - 📫 How to reach me <a href="mailto:irfanrasheed273@gmail.com">Mail Me</a>
 - :page_facing_up: <a href="https://drive.google.com/file/d/1dHIatsgPjQHUDs3GXzSG-l1CRICzEuDW/view?usp=share_link" rel="nofollow">My Resume</a>
 <!---
