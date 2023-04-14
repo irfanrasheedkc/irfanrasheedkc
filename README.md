@@ -9,3 +9,6 @@ irfanrasheedkc/irfanrasheedkc is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 [![@irfanrasheedkc's Holopin board](https://holopin.me/irfanrasheedkc)](https://holopin.io/@irfanrasheedkc)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=irfanrasheedkc&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanrasheedkc&langs_count=5&theme=tokyonight)]()
