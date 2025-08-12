@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @irfanrasheedkc
-- :computer: I’m interested in Web devolopment and Machine Learning
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on python , web and Machine learning projects
+- 🌱 I’m currently working as an associative software engineer @ Rappit
 - 📫 How to reach me <a href="mailto:irfanrasheed273@gmail.com">Mail Me</a>
 - :page_facing_up: <a href="https://drive.google.com/file/d/1yVPZXxSi7rDFisYK-cDZALCcXPKrs3Iv/view?usp=drive_link" rel="nofollow">My Resume</a>
 <!---
